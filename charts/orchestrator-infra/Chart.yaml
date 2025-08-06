@@ -15,4 +15,4 @@ type: application
 sources:
   - https://github.com/redhat-developer/rhdh-chart
 version: 0.2.0
-# Test change for workflow verification-1
+# Test change for bump
