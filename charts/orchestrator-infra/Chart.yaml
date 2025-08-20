@@ -15,4 +15,4 @@ type: application
 sources:
   - https://github.com/redhat-developer/rhdh-chart
 version: 0.2.1
-# Testing changes 1
+# Testing changes 123
